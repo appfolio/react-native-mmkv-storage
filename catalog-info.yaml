@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://json.schemastore.org/catalog-info.json
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-native-mmkv-storage
+  title: react-native-mmkv-storage
+  description: AppFolio's fork of ammarahm-ed/react-native-mmkv-storage, an encrypted key-value storage framework for React Native.
+  tags:
+    - react-native
+    - nodejs
+spec:
+  type: library
+  lifecycle: stable
+  owner: CODEOWNERS
